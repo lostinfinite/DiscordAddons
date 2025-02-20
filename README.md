@@ -14,10 +14,12 @@
 
 ---
 # Table of Contents:
-
+---
 Support Devil Bro
 Legal Stuff
 How to Install
+
+
 ---
 
 # Support our boy (Devilbro)[https://github.com/mwittrien] below
