@@ -6,4 +6,4 @@
 
 ---
 
-- (Class of '09)[https://github.com/lostinfinite/DiscordAddons/tree/master/Themes/Class%20Of%2009]
+- [Class of '09](https://github.com/lostinfinite/DiscordAddons/tree/master/Themes/Class%20Of%2009)
