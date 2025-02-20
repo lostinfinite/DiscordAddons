@@ -2,7 +2,7 @@
 ## This Repo is for a custom theme plugin named "Class of '09". This theme is for BetterDiscord and Vencord.
 
 > [!WARNING]\
-> This code is NOT mine, This code is modified to hide the Watermark in "Basic Background" by Devilbro. This code is made by (Devilbro)[https://github.com/mwittrien] View the original repo (here)[https://github.com/mwittrien/BetterDiscordAddons/tree/master].
+> This code is NOT mine, This code is modified to hide the Watermark in "Basic Background" by Devilbro. This code is made by [Devilbro](https://github.com/mwittrien) View the original repo [here](https://github.com/mwittrien/BetterDiscordAddons/tree/master).
 
 
 > [!WARNING]\
