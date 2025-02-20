@@ -2,7 +2,7 @@
 
 
 > [!WARNING]\
-> This code is NOT mine, the themes below are based/built of off some of (Devilbro's)[https://github.com/mwittrien] themes
+> This code is NOT mine, the themes below are based/built of off some of [Devilbro's](https://github.com/mwittrien) themes
 
 ---
 
