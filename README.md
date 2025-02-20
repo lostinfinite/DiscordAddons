@@ -15,8 +15,10 @@
 ---
 # Table of Contents:
 ---
-Support Devil Bro
+Support DevilBro
+
 Legal Stuff
+
 How to Install
 
 
